@@ -1,0 +1,31 @@
+{
+  "name": "airdrop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^17.0.0",
+    "@types/ramda": "^0.27.60",
+    "@types/sanctuary": "^3.0.3",
+    "@types/ws": "^8.2.2",
+    "daggy": "^1.5.0",
+    "express-ws": "^5.0.2",
+    "immutable": "^4.0.0",
+    "monio": "^0.32.1",
+    "ramda": "^0.27.1",
+    "rxjs": "^7.4.0",
+    "sanctuary": "^3.1.0",
+    "stream": "^0.0.2",
+    "typescript": "4.5.4",
+    "ua-parser-js": "^1.0.2",
+    "unique-names-generator": "latest",
+    "websocket-stream": "^5.5.2",
+    "ws": "^8.3.0"
+  }
+}
